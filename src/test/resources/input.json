@@ -1,0 +1,7 @@
+{
+	 	"id": 1,
+  		"firstName" : "Mark",
+  		"lastName" : "Antony",
+  		"email" : "mark@gmail.com",
+  		"skills" : [ "Villain", "Versatile" ]
+		}
