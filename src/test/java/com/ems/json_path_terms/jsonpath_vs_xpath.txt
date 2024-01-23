@@ -1,0 +1,6 @@
+1. Notations - symbolic representation (Dot notation, Bracket Notation)
+2. Expression - Data -> Query (Expression) -> Result
+3. Predicate - Like a Boolean. It will yield a yes/no (condition check)
+4. Filters (Operator) - JSON Array -> Logical Operation (using filters) -> Retrieve values.
+5. Dictionary -  Inside { }
+6. List - Inside Array [ ]
